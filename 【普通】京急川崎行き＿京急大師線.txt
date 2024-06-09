@@ -1,0 +1,9 @@
+BveTs Scenario 2.00
+Title = 普通　京急川崎行き
+Route = KD_bve\kD_map.txt
+RouteTitle = 京急大師線
+Vehicle = mackoy.Keisei\K_SEI3500R\vehicle.txt
+VehicleTitle = （ほにゃらら形）
+Author = ©芝浦工業大学附属中学高等学校鉄道研究部
+Image = 
+Comment = 最高60km/h

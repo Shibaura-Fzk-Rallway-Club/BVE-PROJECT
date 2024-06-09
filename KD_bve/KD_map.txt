@@ -1,0 +1,6 @@
+BveTs Map 2.02
+Structure.Load('structure\strList.txt');
+0;
+Repeater['Rail1'].Begin(, 0, 0, 0, 0, 0, 0, 3, 5, 5, 'Rail1');
+
+Structure['ruler15'].Put(0, 0, 1, 0, 0, 0, 0, 0, 25);
